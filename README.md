@@ -10,6 +10,8 @@ git clone https://github.com/chrisblakely01/basic-react-forms.git
 ```
 
 - Navigate to project in the terminal
+
+- change git remote url: git remote set-url origin **newurlhere**
 - Install the project:
 
 ```
